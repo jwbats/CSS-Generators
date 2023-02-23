@@ -1,9 +1,13 @@
 # CSS Generators
 
 [Animations Generator](https://animista.net/)
+
 [Blob Maker](https://www.blobmaker.app/)
+
 [Clip Maker](https://bennettfeely.com/clippy/)
+
 [CSS 3 Generator](http://css3generator.com/)
+
 [CSS Generators](https://css-generators.com/)
 [Cubic Bezier](https://cubic-bezier.com/)
 [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
