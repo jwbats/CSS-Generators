@@ -2,7 +2,7 @@
 
 ## Blob Maker
 
-[https://www.blobmaker.app/](https://www.blobmaker.app/)
+[https://www.blobmaker.app/](https://www.blobmaker.app/) - Blob Maker
 
 ## Glassmorphism Generator
 
