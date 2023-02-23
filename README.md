@@ -32,7 +32,7 @@
 
 [http://css3generator.com/](http://css3generator.com/)
 
-## CSS Filter Generator
+## Filter Generator
 
 [http://www.cssfiltergenerator.com/](http://www.cssfiltergenerator.com/)
 
@@ -48,4 +48,14 @@
 
 [https://9elements.github.io/fancy-border-radius/](https://9elements.github.io/fancy-border-radius/)
 
+## Separator Generator
 
+[https://wweb.dev/resources/css-separator-generator/](https://wweb.dev/resources/css-separator-generator/)
+
+## Stripes Generator
+
+[https://stripesgenerator.com/](https://stripesgenerator.com/)
+
+## Triangle Generator
+
+[https://omatsuri.app/triangle-generator](https://omatsuri.app/triangle-generator)
