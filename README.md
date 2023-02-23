@@ -75,3 +75,7 @@
 ## Magic Patterns
 
 [https://www.magicpattern.design/tools/css-backgrounds](https://www.magicpattern.design/tools/css-backgrounds)
+
+## Animista
+
+[https://animista.net/](https://animista.net/)
