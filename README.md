@@ -1,5 +1,4 @@
-# css-generators
-List of CSS generators.
+# CSS Generators
 
 ## [ExampleDomain1.com](https://ExampleDomain1.com/)
 
