@@ -59,3 +59,19 @@
 ## Triangle Generator
 
 [https://omatsuri.app/triangle-generator](https://omatsuri.app/triangle-generator)
+
+## Portal Shapes Generator
+
+[https://www.cssportal.com/css3-shapes/](https://www.cssportal.com/css3-shapes/)
+
+## Gradients
+
+[https://cssgradient.io/](https://cssgradient.io/)
+
+## Shape Divider
+
+[https://www.shapedivider.app/](https://www.shapedivider.app/)
+
+## Magic Patterns
+
+[https://www.magicpattern.design/tools/css-backgrounds](https://www.magicpattern.design/tools/css-backgrounds)
